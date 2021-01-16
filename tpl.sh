@@ -2,6 +2,8 @@
 #
 # Requires tcl/expect: https://core.tcl-lang.org/expect/
 #
+# shortlink to aid downloading raw file:
+# https://is.gd/eQ8kjz
 
 set timeout 20
 # Set router IP here:
